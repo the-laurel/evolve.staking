@@ -9,13 +9,13 @@ When you stake your tokens with us you know:
 
 ## Past Efforts
 
-https://github.com/loredanacirstea/CV/blob/master/evmos/1.%20Feb_2022.md
-https://github.com/loredanacirstea/CV/blob/master/evmos/2.%20March_2022.md
-https://github.com/loredanacirstea/CV/blob/master/evmos/3.%20April_2022.md
+- [February 2022](https://github.com/loredanacirstea/CV/blob/master/evmos/1.%20Feb_2022.md)
+- [March 2022](https://github.com/loredanacirstea/CV/blob/master/evmos/2.%20March_2022.md)
+- [April 2022](https://github.com/loredanacirstea/CV/blob/master/evmos/3.%20April_2022.md)
 
 ## Video Demos
 
-https://www.youtube.com/playlist?list=PL323JufuD9JBpoOtbbvW6Z_gPOVqCgD1r
+[https://www.youtube.com/playlist?list=PL323JufuD9JBpoOtbbvW6Z_gPOVqCgD1r](https://www.youtube.com/playlist?list=PL323JufuD9JBpoOtbbvW6Z_gPOVqCgD1r)
 
 ## Qualified Blockchains
 
@@ -23,6 +23,6 @@ https://www.youtube.com/playlist?list=PL323JufuD9JBpoOtbbvW6Z_gPOVqCgD1r
 
 ## Volunteer
 
-Join the volunteering effort: https://forms.gle/WmSaSbxhHiiA2qZV7
+[Join the volunteering effort](https://forms.gle/WmSaSbxhHiiA2qZV7)
 
-Follow us: https://twitter.com/provable_laurel, https://www.reddit.com/r/provable_laurel/
+Follow us on [Twitter](https://twitter.com/provable_laurel) and [Reddit](https://www.reddit.com/r/provable_laurel/)
