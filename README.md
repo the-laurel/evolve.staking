@@ -3,6 +3,7 @@
 We are volunteers from The Laurel Project who offer staking/validation services for select blockchains.
 
 We present our contributions in ideas, effort, and assets for evolving the Evmos, Cosmos, and blockchain space. See our video:
+
 [![Evolve Evmos: Volunteer's Validator](https://img.youtube.com/vi/57oU_nl-96M/0.jpg)](https://www.youtube.com/watch?v=57oU_nl-96M)
 
 
