@@ -24,7 +24,7 @@ When you stake your tokens with us you know:
 
 ## Qualified Blockchains
 
-- Evmos: [evolve_evmos](https://www.mintscan.io/evmos/validators/evmosvaloper10g7hsnzht9vxetpz274nmw79txn3pa0sgm49nu)
+- Evmos: [evmos4volunteers](https://www.mintscan.io/evmos/validators/evmosvaloper17ucx8wx9mz9f2a4ccum536gthydprcum3kcuc2)
 
 ## Volunteer
 
