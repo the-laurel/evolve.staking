@@ -24,7 +24,23 @@ When you stake your tokens with us you know:
 
 ## Qualified Blockchains
 
-- Evmos: [evmos4volunteers](https://www.mintscan.io/evmos/validators/evmosvaloper17ucx8wx9mz9f2a4ccum536gthydprcum3kcuc2)
+### Evmos: 
+
+Validator: [evmos4volunteers](https://www.mintscan.io/evmos/validators/evmosvaloper17ucx8wx9mz9f2a4ccum536gthydprcum3kcuc2)
+
+Specs:
+```
+AX51-NVME Dedicated Server
+CPU:
+AMD Ryzen™ 7 3700X
+Octa-Core
+Matisse (Zen2)
+Simultaneous Multithreading
+Virtualization (AMD-V)
+RAM: 64 GB DDR4 ECC
+NVMe Gen3 x4 SSD: 2 x 1 TB
+Location: Germany
+```
 
 ## Volunteer
 
