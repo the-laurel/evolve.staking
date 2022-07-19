@@ -17,10 +17,17 @@ When you stake your tokens with us you know:
 - [February 2022](https://github.com/loredanacirstea/CV/blob/master/evmos/1.%20Feb_2022.md)
 - [March 2022](https://github.com/loredanacirstea/CV/blob/master/evmos/2.%20March_2022.md)
 - [April 2022](https://github.com/loredanacirstea/CV/blob/master/evmos/3.%20April_2022.md)
+- [May 2022](https://github.com/loredanacirstea/CV/blob/master/evmos/4.%20May_2022.md)
+- [June 2022](https://github.com/loredanacirstea/CV/blob/master/evmos/5.%20June_2022.md)
+- [July 2022](https://github.com/loredanacirstea/CV/blob/master/evmos/6.%20July_2022.md)
 
 ## Video Demos
 
 [https://www.youtube.com/playlist?list=PL323JufuD9JBpoOtbbvW6Z_gPOVqCgD1r](https://www.youtube.com/playlist?list=PL323JufuD9JBpoOtbbvW6Z_gPOVqCgD1r)
+
+## Evmos Governance Council Recordings
+
+[https://www.youtube.com/watch?v=c87ysMfc3HE&list=PLp0ixIYfMNSg0ESbRDMTiT_jXcu5-Xnx3&ab_channel=TheLaurelProject](https://www.youtube.com/watch?v=c87ysMfc3HE&list=PLp0ixIYfMNSg0ESbRDMTiT_jXcu5-Xnx3&ab_channel=TheLaurelProject)
 
 ## Qualified Blockchains
 
