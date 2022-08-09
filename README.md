@@ -12,6 +12,12 @@ When you stake your tokens with us you know:
 - we enable volunteer developers to have enough gas to deploy their contracts
 - our demos and video presentations are supported by your trust in us
 
+Current delegations:
+- &lt; 1% - Evmos Community support
+- &gt; 99% - The Laurel Project volunteers' personal funds
+
+We currently restake 100% of the rewards for securing the network and maintaining voting power.
+
 ## Past Efforts
 
 - [February 2022](https://github.com/loredanacirstea/CV/blob/master/evmos/1.%20Feb_2022.md)
@@ -20,6 +26,7 @@ When you stake your tokens with us you know:
 - [May 2022](https://github.com/loredanacirstea/CV/blob/master/evmos/4.%20May_2022.md)
 - [June 2022](https://github.com/loredanacirstea/CV/blob/master/evmos/5.%20June_2022.md)
 - [July 2022](https://github.com/loredanacirstea/CV/blob/master/evmos/6.%20July_2022.md)
+- [August 2022](https://github.com/loredanacirstea/CV/blob/master/evmos/7.%20August_2022.md)
 
 ## Video Demos
 
