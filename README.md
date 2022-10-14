@@ -34,7 +34,7 @@ We currently restake 100% of the rewards for securing the network and maintainin
 
 ## Evmos Governance Council Recordings
 
-[https://www.youtube.com/watch?v=c87ysMfc3HE&list=PLp0ixIYfMNSg0ESbRDMTiT_jXcu5-Xnx3&ab_channel=TheLaurelProject](https://www.youtube.com/watch?v=c87ysMfc3HE&list=PLp0ixIYfMNSg0ESbRDMTiT_jXcu5-Xnx3&ab_channel=TheLaurelProject)
+[https://www.youtube.com/playlist?list=PLp0ixIYfMNSg0ESbRDMTiT_jXcu5-Xnx3](https://www.youtube.com/playlist?list=PLp0ixIYfMNSg0ESbRDMTiT_jXcu5-Xnx3)
 
 ## Qualified Blockchains
 
@@ -55,6 +55,10 @@ RAM: 64 GB DDR4 ECC
 NVMe Gen3 x4 SSD: 2 x 1 TB
 Location: Germany
 ```
+
+### Tgrade:
+
+Validator: [tgd4volunteers](https://www.mintscan.io/tgrade/validators/tgrade1f6d3zh7edt5spp8qvuqdpwkh4swrj6hs3lzm4c)
 
 ## Volunteer
 
