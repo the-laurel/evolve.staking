@@ -24,7 +24,7 @@ Current delegations:
 - &lt; 1% - Evmos Community support
 - &gt; 99% - The Laurel Project volunteers' personal funds
 
-#### Past Efforts
+#### Our Efforts for Evmos
 
 - [February 2022](https://github.com/loredanacirstea/CV/blob/master/evmos/1.%20Feb_2022.md)
 - [March 2022](https://github.com/loredanacirstea/CV/blob/master/evmos/2.%20March_2022.md)
@@ -33,6 +33,11 @@ Current delegations:
 - [June 2022](https://github.com/loredanacirstea/CV/blob/master/evmos/5.%20June_2022.md)
 - [July 2022](https://github.com/loredanacirstea/CV/blob/master/evmos/6.%20July_2022.md)
 - [August 2022](https://github.com/loredanacirstea/CV/blob/master/evmos/7.%20August_2022.md)
+- [September 2022](https://github.com/loredanacirstea/CV/blob/master/evmos/8.%20September_2022.md)
+- [October 2022](https://github.com/loredanacirstea/CV/blob/master/evmos/9.%20October_2022.md)
+- [November 2022](https://github.com/loredanacirstea/CV/blob/master/evmos/10.%20November_2022.md)
+
+
 
 #### Video Demos
 
