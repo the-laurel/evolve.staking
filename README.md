@@ -2,23 +2,29 @@
 
 We are volunteers from The Laurel Project who offer staking/validation services for select blockchains.
 
-We present our contributions in ideas, effort, and assets for evolving the Evmos, Cosmos, and blockchain space. See our video:
-
-[![Evolve Evmos: Volunteer's Validator](https://github.com/the-laurel/evolve.staking/raw/main/images/video1.png)](https://www.youtube.com/watch?v=57oU_nl-96M)
-
+We present our contributions in ideas, effort, and assets for evolving the EVM, CosmWasm, Cosmos, and blockchain space. 
 
 When you stake your tokens with us you know:
 - the earned commission will be used for building new tech
 - we enable volunteer developers to have enough gas to deploy their contracts
 - our demos and video presentations are supported by your trust in us
 
+We currently restake 100% of the rewards for securing the networks and maintaining voting power.
+
+## Qualified Blockchains
+
+### Evmos
+
+See our video:
+
+[![Evolve Evmos: Volunteer's Validator](https://github.com/the-laurel/evolve.staking/raw/main/images/video1.png)](https://www.youtube.com/watch?v=57oU_nl-96M)
+
+
 Current delegations:
 - &lt; 1% - Evmos Community support
 - &gt; 99% - The Laurel Project volunteers' personal funds
 
-We currently restake 100% of the rewards for securing the network and maintaining voting power.
-
-## Past Efforts
+#### Past Efforts
 
 - [February 2022](https://github.com/loredanacirstea/CV/blob/master/evmos/1.%20Feb_2022.md)
 - [March 2022](https://github.com/loredanacirstea/CV/blob/master/evmos/2.%20March_2022.md)
@@ -28,19 +34,18 @@ We currently restake 100% of the rewards for securing the network and maintainin
 - [July 2022](https://github.com/loredanacirstea/CV/blob/master/evmos/6.%20July_2022.md)
 - [August 2022](https://github.com/loredanacirstea/CV/blob/master/evmos/7.%20August_2022.md)
 
-## Video Demos
+#### Video Demos
 
-[https://www.youtube.com/playlist?list=PL323JufuD9JBpoOtbbvW6Z_gPOVqCgD1r](https://www.youtube.com/playlist?list=PL323JufuD9JBpoOtbbvW6Z_gPOVqCgD1r)
+Evmos playlist: [https://www.youtube.com/playlist?list=PL323JufuD9JBpoOtbbvW6Z_gPOVqCgD1r](https://www.youtube.com/playlist?list=PL323JufuD9JBpoOtbbvW6Z_gPOVqCgD1r)
 
-## Evmos Governance Council Recordings
+#### Evmos Governance Council Recordings
 
 [https://www.youtube.com/playlist?list=PLp0ixIYfMNSg0ESbRDMTiT_jXcu5-Xnx3](https://www.youtube.com/playlist?list=PLp0ixIYfMNSg0ESbRDMTiT_jXcu5-Xnx3)
 
-## Qualified Blockchains
 
-### Evmos: 
+#### Validator: 
 
-Validator: [evmos4volunteers](https://www.mintscan.io/evmos/validators/evmosvaloper17ucx8wx9mz9f2a4ccum536gthydprcum3kcuc2)
+- [evmos4volunteers](https://www.mintscan.io/evmos/validators/evmosvaloper17ucx8wx9mz9f2a4ccum536gthydprcum3kcuc2)
 
 Specs:
 ```
@@ -58,7 +63,14 @@ Location: Germany
 
 ### Tgrade:
 
-Validator: [tgd4volunteers](https://www.mintscan.io/tgrade/validators/tgrade1f6d3zh7edt5spp8qvuqdpwkh4swrj6hs3lzm4c)
+#### Video Demos
+
+Tgrade playlist: [https://www.youtube.com/playlist?list=PL323JufuD9JCzkEaNv9PphjF7M1mi7LSx](https://www.youtube.com/playlist?list=PL323JufuD9JCzkEaNv9PphjF7M1mi7LSx)
+
+#### Validator:
+
+- [tgd4volunteers](https://www.mintscan.io/tgrade/validators/tgrade1f6d3zh7edt5spp8qvuqdpwkh4swrj6hs3lzm4c)
+
 
 ## Volunteer
 
