@@ -13,9 +13,26 @@ We currently restake 100% of the rewards for securing the networks and maintaini
 
 ## Qualified Blockchains
 
+### Tgrade
+
+#### Video Demos
+
+Tgrade playlist: [https://www.youtube.com/playlist?list=PL323JufuD9JCzkEaNv9PphjF7M1mi7LSx](https://www.youtube.com/playlist?list=PL323JufuD9JCzkEaNv9PphjF7M1mi7LSx)
+
+#### Validator:
+
+- [tgd4volunteers](https://www.mintscan.io/tgrade/validators/tgrade1f6d3zh7edt5spp8qvuqdpwkh4swrj6hs3lzm4c)
+
+
+
 ### Evmos
 
-See our video:
+**[UPDATE 2022/December/01]: The Evmos Governance Council has decided to NOT consider our efforts as volunteer efforts: [https://youtu.be/eQjt8UxFRZ4?t=2773](https://youtu.be/eQjt8UxFRZ4?t=2773). We have volunteered > 100h/week for Evmos, as detailed below. We have spent 2h/week maintaining the evmos4volunteers validator, which can be considered a for-profit activity, even though the rewards have not been used as money. Therefore, we can no longer volunteer for Evmos, because the volunteer status cannot exist if the person/project/institution you are helping does not consider you one.**
+
+-----
+
+
+#### See our video:
 
 [![Evolve Evmos: Volunteer's Validator](https://github.com/the-laurel/evolve.staking/raw/main/images/video1.png)](https://www.youtube.com/watch?v=57oU_nl-96M)
 
@@ -66,19 +83,10 @@ NVMe Gen3 x4 SSD: 2 x 1 TB
 Location: Germany
 ```
 
-### Tgrade:
-
-#### Video Demos
-
-Tgrade playlist: [https://www.youtube.com/playlist?list=PL323JufuD9JCzkEaNv9PphjF7M1mi7LSx](https://www.youtube.com/playlist?list=PL323JufuD9JCzkEaNv9PphjF7M1mi7LSx)
-
-#### Validator:
-
-- [tgd4volunteers](https://www.mintscan.io/tgrade/validators/tgrade1f6d3zh7edt5spp8qvuqdpwkh4swrj6hs3lzm4c)
-
 
 ## Volunteer
 
 [Join the volunteering effort](https://forms.gle/WmSaSbxhHiiA2qZV7)
 
 Follow us on [Twitter](https://twitter.com/provable_laurel) and [Reddit](https://www.reddit.com/r/provable_laurel/)
+
